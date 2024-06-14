@@ -4,7 +4,7 @@
 **Phone:** +91 76001 22499  
 **Email:** [bhavinphirpara@gmail.com](mailto:bhavinphirpara@gmail.com)  
 **LinkedIn:** [bhavinhirpara95](https://www.linkedin.com/in/bhavinhirpara95/)  
-**GitHub:** [sansquoi](https://github.com/sansquoi)  
+**GitHub:** [hirparabhavin](https://github.com/hirparabhavin)  
 
 ---
 
@@ -66,4 +66,4 @@ Dynamic and results-driven Java Developer with 5+ years of experience in develop
 - **Email:** [bhavinphirpara@gmail.com](mailto:bhavinphirpara@gmail.com)
 - **Phone:** +91 76001 22499
 - **LinkedIn:** [bhavinhirpara95](https://www.linkedin.com/in/bhavinhirpara95/)
-- **GitHub:** [sansquoi](https://github.com/sansquoi)
+- **GitHub:** [hirparabhavin](https://github.com/hirparabhavin)
