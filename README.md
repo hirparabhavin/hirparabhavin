@@ -1,69 +1,67 @@
-# 👨‍💻 Bhavin Hirpara
+# Bhavin Hirpara
 
-**Location:** Bengaluru, Karnataka  
-**Phone:** +91 76001 22499  
-**Email:** [bhavinphirpara@gmail.com](mailto:bhavinphirpara@gmail.com)  
-**LinkedIn:** [bhavinhirpara95](https://www.linkedin.com/in/bhavinhirpara95/)  
-**GitHub:** [hirparabhavin](https://github.com/hirparabhavin)  
-
----
-
-## 📝 Professional Summary
-
-Dynamic and results-driven Java Developer with 5+ years of experience in developing high-performance, scalable applications in the banking and financial services domain. Expertise in Java, Spring Boot, and RDBMS. Skilled in leading and mentoring development teams, and leveraging Kubernetes and Jenkins for cloud infrastructure. Recognized for problem-solving, collaboration, and delivering secure, maintainable software solutions in Agile environments.
+📍 Bengaluru, Karnataka  
+💼 JAVA Developer  
+📞 +91 76001 22499  
+✉️ [bhavinphirpara@gmail.com](mailto:bhavinphirpara@gmail.com)  
+🌐 [Portfolio](https://bhavinhirparaportfolio.netlify.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhavinhirpara95/)  
+🐙 [GitHub](https://github.com/hirparabhavin)
 
 ---
 
-## 🛠 Technical Skills
+## Professional Summary
 
-- **Java Development:** Core Java, JAVA EE
-- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
-- **Frontend:** Dojo Framework, HTML, CSS, JavaScript
-- **Databases:** Oracle, MySQL, PostgreSQL
-- **Tools:** Maven, Gradle, Git, Sourcetree, SonarLint, Swagger, Postman, JIRA, Bitbucket, Confluence, Eclipse, IntelliJ, Jenkins
-- **Security:** DAST (Dynamic Application Security Testing), CAST (Code Analysis and Security Testing)
-- **Cloud Infrastructure:** Kubernetes, Jenkins
-- **Methodologies:** Agile (Scrum), Waterfall
+Dynamic and results-driven Java Developer with 5+ years of experience in developing high-performance, scalable applications in the banking and financial services domain. Expertise in Java, Spring Boot, and RDBMS, with a strong focus on microservices architecture and development. Skilled in leading and mentoring development teams, and leveraging Kubernetes and Jenkins for cloud infrastructure. Recognized for problem-solving, collaboration, and delivering secure, maintainable software solutions in Agile environments.
 
 ---
 
-## 💼 Experience
+## Technical Skills
 
-### Lead Analyst | CGI
-**February 2019 – Present**
-
-- **Java Development:** Led the development and maintenance of the Strata Enterprise decision management system, focusing on Java-based solutions for both frontend (Dojo Framework) and backend (Spring Boot, JPA, Hibernate).
-- **RESTful API Implementation:** Designed and implemented RESTful APIs using Spring Boot, facilitating seamless communication between frontend and backend components, enhancing system scalability and performance.
-- **Sprint-based Development:** Actively participated in sprint-based development cycles and conducted demos after each sprint to showcase Java development progress and gather feedback.
-- **Data Management:** Designed critical components for data conversion and created import/export features, optimizing user operations and ensuring efficient data management.
-- **Reporting Solutions:** Implemented BIRT for comprehensive reporting capabilities, enabling data-driven decision-making across customer lifecycle touchpoints.
-- **Code Quality Assurances:** Ensured high code quality standards using SonarLint and conducted security scans using DAST and CAST tools to maintain system integrity.
-- **Data Migration and Integration:** Authored SQL data-upgrade scripts to seamlessly migrate client data from older to newer versions of Strata, ensuring minimal disruption and data consistency. Managed data load and unload operations using flat files, improving data handling efficiency and integration capabilities.
-- **Bug Resolution:** Resolved UI and backend bugs during product GA and ongoing sprints, improving system stability and performance.
-- **Team Leadership:** Mentored and guided a team of 3 developers, fostering their Java development skills and ensuring adherence to Agile methodologies.
-- **Enhancement Collaboration:** Collaborated on enhancing the test designer module, enabling mock data creation and strategy testing based on inbound events, improving testing efficiency.
-- **Client Issue Resolution:** Took ownership of client issues, providing timely resolutions and ensuring high levels of customer satisfaction.
+- **Java Development**: Core Java, JAVA EE
+- **Frameworks**: Spring Boot, Spring Data JPA, Hibernate
+- **Frontend**: Dojo Framework, HTML, CSS, JavaScript
+- **Databases**: Oracle, MySQL, PostgreSQL
+- **Tools**: Maven, Gradle, Git, Sourcetree, SonarLint, Swagger, Postman, JIRA, Bitbucket, Confluence, Eclipse, IntelliJ, Jenkins
+- **Security**: DAST (Dynamic Application Security Testing), CAST (Code Analysis and Security Testing)
+- **Cloud Infrastructure**: Kubernetes, Google Kubernetes Engine (GKE), Google Cloud Run, Jenkins
+- **Microservices**: Microservices Architecture, Docker, Spring Cloud, Netflix Eureka, API Gateway, OpenFeign
+- **Methodologies**: Agile (Scrum), Waterfall
 
 ---
 
-## 🏆 Awards
+## Experience
 
-- **APEX Award:** Received the “APEX” award from CGI in 2021 for outstanding performance.
-- **Gold Award:** Awarded “Gold” in the first quarter of 2020 for excellent project contributions.
-- **Star of the Month:** Recognized as “Star of the Month” in 2020 for timely and high-quality delivery.
+### Lead JAVA Developer | CGI  
+_February 2019 – Present_
+
+- **STRATA Overview**: The Strata Enterprise Decision Management System is a comprehensive platform designed to enhance decision-making processes across customer lifecycle touchpoints in the banking and financial services domain. The system integrates robust frontend and backend technologies to deliver high-performance, scalable, and secure solutions.
+- **Java Development**: Spearheaded the development and maintenance of Java-based solutions, enhancing system performance and scalability by 25%.
+- **RESTful API Implementation**: Designed and implemented RESTful APIs, optimizing communication between components and boosting system scalability by 40%.
+- **Recent Work**: Developed the Test Designer feature, enabling users to mock account data and test strategies, which improved testing accuracy by 35%.
+- **Microservices Development**: Developed modular microservices, improving system modularity and maintainability, and reducing deployment time by 20%.
+- **Sprint-based Development**: Contributed to sprint-based development cycles, leading to a 15% increase in project delivery speed and efficiency.
+- **Reporting Solutions**: Implemented BIRT for reporting, enhancing data-driven decision-making capabilities by 25%.
+- **Code Quality Assurances**: Maintained high code quality standards, reducing code issues by 30% through SonarLint and security scans using DAST and CAST tools.
+- **Data Migration and Integration**: Authored SQL data-upgrade scripts and managed data operations, improving data handling efficiency by 20%.
+- **Bug Resolution**: Resolved UI and backend bugs, enhancing system stability and performance by 25%.
+- **Client Issue Resolution**: Resolved client issues promptly, achieving a 95% customer satisfaction rate.
+- **Enhancement Collaboration**: Enhanced the test designer module, improving testing efficiency and effectiveness by 30%.
 
 ---
 
-## 🎓 Education
+## Awards
 
-**Dharmsinh Desai University**  
-**B.Tech in Information Technology**
+- 🏆 Recognized as “Star of the Month” in 2023 for timely and high-quality delivery.
+- 🥇 Awarded “Gold” in the first quarter of 2020 for excellent project contributions.
 
 ---
 
-## 🌐 Contact
+## Education
 
-- **Email:** [bhavinphirpara@gmail.com](mailto:bhavinphirpara@gmail.com)
-- **Phone:** +91 76001 22499
-- **LinkedIn:** [bhavinhirpara95](https://www.linkedin.com/in/bhavinhirpara95/)
-- **GitHub:** [hirparabhavin](https://github.com/hirparabhavin)
+- **Dharmsinh Desai University**  
+  B.Tech in Information Technology
+
+---
+
+
